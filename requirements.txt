@@ -1,0 +1,7 @@
+requests
+numpy
+pillow
+pywin32
+colorama
+pynput
+keyboard
